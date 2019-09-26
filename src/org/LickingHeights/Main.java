@@ -4,9 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
         //todo declare variables a,b,c,discriminant, axisOfSymmetry,parabolaFaction,x,y
-
+        double a,b,c,discriminant,axisOfSymmetry,x,y;
+        String parabalaFacing;
         //todo initialize manually
-
+        
         //todo calculations
 
         //todo print results
