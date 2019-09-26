@@ -7,9 +7,12 @@ public class Main {
         double a,b,c,discriminant,axisOfSymmetry,x,y;
         String parabalaFacing;
         //todo initialize manually
-        
+        a=5;
+        b=3;
+        c=1;
         //todo calculations
-
+        axisOfSymmetry= -b/(2*a);
+        discriminant
         //todo print results
 
         //todo not in code, check results
